@@ -10,7 +10,7 @@ Assuming that you've already installed Android Studio and it is in a working con
 1) Fork the repository(optional)
 
 2) Clone/Download the files into your local machine  
-   ###### For Unix Users :-  
+   ###### For Linux Users :-  
    [Set up git](https://help.github.com/articles/set-up-git/) in your local machine  
    From the Clone with HTTPs section, copy the clone URL for the repository.  
    Then from command line create a local clone of your fork by :-  
