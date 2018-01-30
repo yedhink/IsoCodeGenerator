@@ -19,8 +19,8 @@ Assuming that you've already installed Android Studio and it is in a working con
    Under the repository name, click Clone or download.
    
 3) Now, you have a local copy of your fork of the repository!
-4) Open the project using Android Studio
-5) Run it using an Emulator/Phone to see the output  
+4) Open the project in Android Studio
+5) Run it using an [Emulator/Phone](https://developer.android.com/training/basics/firstapp/running-app.html) to see the output  
 
 ## TestExamples  
   ###### Example 1  
