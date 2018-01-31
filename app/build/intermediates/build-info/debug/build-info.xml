@@ -5,31 +5,35 @@
     build-mode="COLD"
     density="xhdpi"
     format="10"
+    ir-eligibility="FIELD_REMOVED"
     plugin-version="3.0.1"
-    timestamp="1517240458911"
+    timestamp="1517405733622"
     token="-3389401082853033565"
     verifier="COLD_SWAP_REQUESTED" >
 
     <task
         name="javac"
-        duration="0" />
+        duration="216" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="0" />
+        duration="49" />
     <task
         name="verifier"
-        duration="0" />
+        duration="7" />
 
+    <artifact
+        location="E:\Projects\CountryCodeGenerator\app\build\intermediates\split-apk\debug\slices\slice_0.apk"
+        type="SPLIT" />
     <artifact
         location="E:\Projects\CountryCodeGenerator\app\build\outputs\apk\debug\app-debug.apk"
         type="SPLIT_MAIN" />
 
     <build
         build-mode="FULL"
-        timestamp="1517239292709"
+        timestamp="1517404378014"
         verifier="FULL_BUILD_REQUESTED" >
         <artifact
             location="E:\Projects\CountryCodeGenerator\app\build\intermediates\split-apk\debug\slices\slice_0.apk"
@@ -70,17 +74,21 @@
     </build>
     <build
         build-mode="COLD"
-        ir-eligibility="COMPATIBLE"
-        timestamp="1517239453041"
+        ir-eligibility="FIELD_ADDED"
+        timestamp="1517405663281"
+        verifier="COLD_SWAP_REQUESTED" >
+        <artifact
+            location="E:\Projects\CountryCodeGenerator\app\build\outputs\apk\debug\app-debug.apk"
+            type="SPLIT_MAIN" />
+    </build>
+    <build
+        build-mode="COLD"
+        ir-eligibility="FIELD_REMOVED"
+        timestamp="1517405733622"
         verifier="COLD_SWAP_REQUESTED" >
         <artifact
             location="E:\Projects\CountryCodeGenerator\app\build\intermediates\split-apk\debug\slices\slice_0.apk"
             type="SPLIT" />
-    </build>
-    <build
-        build-mode="COLD"
-        timestamp="1517240458911"
-        verifier="COLD_SWAP_REQUESTED" >
         <artifact
             location="E:\Projects\CountryCodeGenerator\app\build\outputs\apk\debug\app-debug.apk"
             type="SPLIT_MAIN" />
