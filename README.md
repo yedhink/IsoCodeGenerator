@@ -2,7 +2,11 @@
 Android App to generate Country Name from two letter iso country codes(ISO ALPHA-2) and vice versa.
 
 ## Prerequisites  
-Working in Android Studio and running the App.
+Android Studio installed along with the following SDK tools
+- Android SDK v26
+- Android Build Tools
+- Android SDK Platform-Tools v27.0.1
+and also know-how to run the app.
 
 
 ## Installation
